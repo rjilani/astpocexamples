@@ -1,4 +1,4 @@
-How to Build
+How to Build a project
 
 mvn clean package
 
